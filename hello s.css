@@ -292,4 +292,7 @@ width: 40px;
     .cards{
         width: 80%;
     }
+    .skills{
+        display: none;
+    }
 }
